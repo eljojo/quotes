@@ -1,0 +1,5 @@
+name: Quotes
+markdown: redcarpet
+pygments: false
+permalink: /:title
+exclude: ['CNAME', 'Gemfile', 'Gemfile.lock']
