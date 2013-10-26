@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "About what to work on"
+date:   2013-10-26 12:11:06
+---
+
+Work on cool shit with cool people for as long as possible.
+
+-- [David Heinemeier Hansson](https://www.youtube.com/watch?v=FkLVl3gpJP4)
